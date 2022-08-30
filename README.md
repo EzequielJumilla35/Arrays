@@ -3,7 +3,7 @@ Repositorio sobre arrays con información y ejemplos.
 
 1)Para poder utilizar el repositorio correctamente es necesario que se eliminen los comentarios de los scripts en index.html.
 
-2)Recomendacion: En caso de eliminar los comentarios del  archivo 0-todosLosArrays, no desactivar otro scripts para no tener errores en el codigo.
+2)Recomendacion: En caso de eliminar los comentarios del  archivo 0-todosLosArrays, no eliminar los comentarios de otro script para no tener errores en el codigo.
 
 3)Dentro de la carpeta arrays, esta todo el contenido sobre arrays
 
