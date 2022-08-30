@@ -6,6 +6,7 @@ const recorrerArray = ["Messi", "Maradona", "Batistuta"]
 for (let index = 0; index < recorrerArray.length; index++) {
    //con el console.log(recorrerArray[index]) nos muestra todo el array iterado, elemento por elemento en la consola
    console.log(recorrerArray[index]);
-   }
+}
+//Resultado: Messi Maradona Batitusta
 
   

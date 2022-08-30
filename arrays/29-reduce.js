@@ -15,11 +15,11 @@ const camisetas = [
  ]
  
  const usoReduce = camisetas.reduce((acc, curr) => acc + curr.precio, 0)
- console.log(`El precio total de las 3 camisetas es: ${usoReduce}`)
+ console.log(`El precio total de las 3 camisetas es: % $${usoReduce} `) //Respuesta $1000
  
  //Explicacion: acc hace referencia al acumulador y curr a la sumatoria del elemento , 0 es monto en el cual va a empezar acc, por lo que el resultado es 1000 (300 nike, 500 adidas, 200 puma)
  
  //Otro ejemplo con acc empezando en 300
  const usoReduce1 = camisetas.reduce((acc, curr) => acc + curr.precio, 300)
- console.log(`El precio total de las 3 camisetas es: ${usoReduce1}`)
- 
+ console.log(`El precio total de las 3 camisetas es: $${usoReduce1}`)
+ //Respuesta: $1300

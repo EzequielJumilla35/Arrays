@@ -2,3 +2,7 @@
 let actores = ["Leo Di Caprio", "Jim Carrey", "Ricaro Darín"]
 console.log(actores.shift()) 
 //Elimina los elementos "Jim Carrey" y "Ricardo Darin" y devuelve solamente el primer elemento del array [0] que es "Leo Di Caprio"
+
+ //Otro ejemplo
+ let shiftNumbers = [23 , 33 , 44 , 55]
+ console.log(popNumbers.pop()) //Respuesta : 23

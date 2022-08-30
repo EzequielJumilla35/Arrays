@@ -2,4 +2,4 @@
 const nroFindLastIndex = [35, 23, 11, 17, 39, 41]
 const resultadoFindLastIndex = nroFindLastIndex.findLastIndex((element)=> element % 3 === 0)
 //Devuelve la posición del último array que cumple con la condicion de ser divisible por 3 con resto 0 es el 39
-console.log(resultadoFindLastIndex)
+console.log(resultadoFindLastIndex) //Respuesta: 4

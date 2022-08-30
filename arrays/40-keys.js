@@ -7,3 +7,4 @@ const userPage = {
  }
  
  console.log(Object.keys(userPage)) //Devuelve la claves del objeto en formato array con Strings
+ //Respuesta: ["name", "surname", "country"]

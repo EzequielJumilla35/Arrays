@@ -41,3 +41,4 @@ const usoMap2 = [...userNames].map(element => {
    // en este caso multiplicamos la edad del objeto del array, por lo que Ezequiel paso de tener 23 años a 46 , lebron de 38 a 76 y federer de 41 a 82
    console.log(element.profesion)
 })
+

@@ -2,3 +2,7 @@
 let artistas = ["Kanye West", "Eminem", "Dr dre"]
 console.log(artistas.pop())
  //Elimina los elementos "Kanye West" y "Eminem" devuelve solamente el último elemento "Dr dre"
+
+ //Otro ejemplo
+ let popNumbers = [22 , 33 , 44 , 55]
+ console.log(popNumbers.pop()) //Respuesta: 55

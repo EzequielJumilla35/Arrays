@@ -3,5 +3,5 @@ const arrJoin = ["Portugal","Italia","España","Francia"]
 const resArrJoin = arrJoin.join(" - ") //Une los arrays y los separa según lo que se introduzca dentro de los ()
 console.log(resArrJoin)// Respuesta: Portugal - Italia - España - Francia
 //Otro ejemplo
-const resArrJoin1 = arrJoin.join("") //Respuesta:PortugalItaliaEspañaFrancia
-console.log(resArrJoin1)
+const resArrJoin1 = arrJoin.join("") 
+console.log(resArrJoin1) //Respuesta:PortugalItaliaEspañaFrancia

@@ -32,4 +32,6 @@ const userNames = [
     Edad:${element.age}
     Profesion:${element.profesion}`) 
  });
- 
+ //Respuesta: Nombre : Ezequiel Edad:23 Profesion: Developer
+ //           Nombre : Lebron Edad:37 Profesion: Jugador profesional de Basquet
+ //           Nombre : Ezequiel Edad:23 Profesion: Tenista
